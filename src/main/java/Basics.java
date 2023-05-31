@@ -146,8 +146,8 @@ public class Basics {
 
         // Fill in the rest of the body here
         for (int i = 0; i < to_split.length(); i++) {
-            if (i = 0 || (to_split.charAt(i) != ' ' && to_split.charAt(i - 1) == ' ')) {
-                ret.append(to_split.charAt(i).toString());
+            if (i == 0 || (to_split.charAt(i) != ' ' && to_split.charAt(i - 1) == ' ')) {
+                ret.append(to_split.charAt(i));
             }
         }
 
