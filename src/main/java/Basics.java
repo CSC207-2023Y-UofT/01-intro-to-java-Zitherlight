@@ -4,7 +4,7 @@
  * are labelled with TODO
  *
  * For your convenience, we have also included references to the
- * relevant readings for each task. 
+ * relevant readings for each task.
  */
 
 /**
